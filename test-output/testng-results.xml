@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T07:57:27Z" name="Default suite" finished-at="2022-07-28T07:57:39Z" duration-ms="11736">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T07:57:27Z" name="Default test" finished-at="2022-07-28T07:57:39Z" duration-ms="11736">
+      <class name="TestCases.DashboardMenuTestcase">
+        <test-method signature="Navigate_AdminRoles()[pri:0, instance:TestCases.DashboardMenuTestcase@6c25e6c4]" started-at="2022-07-28T07:57:27Z" name="Navigate_AdminRoles" finished-at="2022-07-28T07:57:33Z" duration-ms="5999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_AdminRoles -->
+        <test-method signature="Navigate_userManagement()[pri:0, instance:TestCases.DashboardMenuTestcase@6c25e6c4]" started-at="2022-07-28T07:57:33Z" name="Navigate_userManagement" finished-at="2022-07-28T07:57:39Z" duration-ms="5546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_userManagement -->
+      </class> <!-- TestCases.DashboardMenuTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
